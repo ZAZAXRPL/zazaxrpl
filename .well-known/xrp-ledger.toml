@@ -1,0 +1,19 @@
+[[ISSUERS]]
+address = "rMcMYLqJhUtoJYu45aHvTPCuagAWsZKyfJ"   
+name    = "ZAZA"
+
+[[TOKENS]] 
+issuer   = "rMcMYLqJhUtoJYu45aHvTPCuagAwsZK..."
+currency = "ZAZA"
+name     = "ZAZA"
+desc     = "ZAZA ($ZAZA) is a cannabis culture coin on XRPL."
+icon     = "https://i.postimg.cc/bNtZPbgQ/zaza-logo.png"
+
+[[TOKENS.URLS]]
+url  = "https://x.com/zazaxrpl?s=21"
+url  = "https://t.me/zazaxrp"
+type = "social"
+
+[[TOKENS.URLS]]
+url  = "https://zazaxrp.com"
+type = "website"
